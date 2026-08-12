@@ -1,0 +1,6 @@
+{
+  "name": "Russian Bengali Vocabulary",
+  "description": "Comprehensive Russian to Bengali vocabulary builder featuring audio speech pronunciation, flashcards, custom categories, test mode, wrong words review, and statistics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
